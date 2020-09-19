@@ -1,4 +1,4 @@
-import './async'
+import './range'
 
 document.addEventListener('DOMContentLoaded', function() {
     
